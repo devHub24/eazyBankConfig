@@ -7,7 +7,7 @@ account:
   message: "Hi there from account Production"
   contactDetails:
     name: "Santhosh"
-    email: "santhosh@gmail.com"
+    email: "{cipher}e7c3ac3bb6724a3e97b283b6c0844af379cbb55cdc3b6a5865825936f568e713ae34d7bc3556cc638cb0f759c28a5342"
   onCallSupport:
     - (91)9988998899
     - (91)8899889988
